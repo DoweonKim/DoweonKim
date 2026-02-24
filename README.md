@@ -104,14 +104,6 @@ Tech Stack: Python · AWS · Supabase · Docker · ETL · Data Engineering
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DoweonKim&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoweonKim&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 📫 Contact
 📧 kimdoweon0624@gmail.com  
 🔗 GitHub: https://github.com/DoweonKim  
