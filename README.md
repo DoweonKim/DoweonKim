@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20Doweon%20Kim%20👋&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hi,%20I'm%20Doweon%20Kim%20👋&fontAlign=50&fontAlignY=40&color=0:5B5F8F,50:6B6FA3,100:7C80B5" />
 </div>
-
 ---
 
 ## 👋 About Me
